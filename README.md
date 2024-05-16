@@ -1,3 +1,7 @@
+#This is a netflix-like streaming application which is integrated with chatgpt that allows user to serach and get recommendation for any movie, 
+deployed to firebase.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
